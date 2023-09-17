@@ -83,5 +83,3 @@ phase 3 : [experiment and if possible generate appropriate data
 
 - You can check the segmentation accuracy from saved image.
 
-
-- Fill [this form](https://goo.gl/forms/ceQNkEimLL8NN1sF2) for bulk model access grants and future update notification.
