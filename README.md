@@ -73,8 +73,6 @@ phase 3 : [experiment and if possible generate appropriate data
 	
 	>>  python main.py 'test/a.jpg' --segment --species 'apple' --model 'inceptionv3'
 	   
-
-- Before using that make sure you download the weights from   [here for Inception_V3](https://drive.google.com/file/d/1PZ0SUyGbcKJidNcSfwKsnhR23O2PBl78/view?usp=sharing) and  [here for VGG Models](https://drive.google.com/file/d/1AufdWYl-TfeicAmaweq6Gd8q3--vuBfA/view?usp=sharing)  and extract all and put it in `Plant_Disease_Detection_Benchmark_models/Models/` folder. 
 		
 - This will segment the image and predict the output class based on that. Segmented image will be saved as the file name with "_marked" suffix before the file extension.
 
